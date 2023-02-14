@@ -1,7 +1,8 @@
 <h1>Installation</h1>
-1.) Download the zip into your project
-2.) Unzip the contents into your project
-3.) Link the proper style sheets
+1.) Download the zip into your project <br />
+2.) Unzip the contents into your project <br />
+3.) Link the proper style sheets <br />
+<br />
 
 <pre>
     <link rel="stylesheet" href="css/uikit.min.css" />
