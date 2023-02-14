@@ -1,1 +1,10 @@
-<h5> To use UI Kit in your project, simply take the css and js folders from this repo and add they to your project </h5>
+<h1>Installation</h1>
+1.) Download the zip into your project
+2.) Unzip the contents into your project
+3.) Link the proper style sheets
+
+<pre>
+    <link rel="stylesheet" href="css/uikit.min.css" />
+    <script src="js/uikit.min.js"></script>
+    <script src="js/uikit-icons.min.js"></script>
+</pre>
