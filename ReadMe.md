@@ -1,4 +1,4 @@
-<h1>Center a container</h1>
+<h3>Center a container</h3>
 <pre>
     position: absolute;
     top: 50%;
